@@ -15,6 +15,10 @@ This tutoring scheduling application simplifies the process of scheduling tutori
 
 Sysadmins can manage users, configure system settings, and generate reports. Tutors can manage their availability, view scheduled sessions, and communicate with students. Students can browse tutor profiles, book sessions, and track their learning progress.
 
+## Demo
+https://github.com/user-attachments/assets/897a88cf-2b55-492d-9e85-9535452185f1
+
+
 ## Features
 - **User Profiles:** Sysadmins, Tutors, and Students with tailored features for each role.
 - **Scheduling System:** Easy-to-use session booking system with calendar integration.
@@ -103,4 +107,5 @@ Contributions are welcome! To contribute:
 
 ## License
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+
 
