@@ -22,14 +22,13 @@ Sysadmins can manage users, configure system settings, and generate reports. Tut
 - **Session Management:** Tutors and students can view, modify, and cancel sessions.
 - **Notifications:** Real-time notifications for session updates and reminders.
 - **Analytics Dashboard:** Detailed reports on sessions, user activity, and payments.
-- **Payment Integration:** Secure payment gateway to handle transactions between students and tutors.
 - **Multi-platform Support:** Mobile-first design with support for web and mobile devices.
 
 ## Tech Stack
 - **Frontend:** React Native
 - **Backend:** Node.js (Express)
 - **Database:** PostgreSQL
-- **Authentication:** Firebas
+- **Authentication:** Supabase
 - **Calendar Integration:** Google Calendar API
 
 ## Installation
@@ -37,8 +36,7 @@ Sysadmins can manage users, configure system settings, and generate reports. Tut
 ### Prerequisites
 - Node.js (v14 or higher)
 - MongoDB or PostgreSQL
-- Stripe Account (for payment integration)
-- Firebase / Auth0 Account (for authentication)
+- Supabase Account (for authentication)
 
 ### Steps
 1. Clone the repository:
@@ -105,3 +103,4 @@ Contributions are welcome! To contribute:
 
 ## License
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+
